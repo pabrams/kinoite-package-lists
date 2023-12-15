@@ -1,0 +1,7 @@
+Obsidian	md.obsidian.Obsidian	1.4.16	stable	system
+Freedesktop Platform	org.freedesktop.Platform	23.08.8	23.08	system
+Mesa	org.freedesktop.Platform.GL.default	23.3.0	23.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	23.3.0	23.08-extra	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		23.08	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	system
+Breeze GTK theme	org.gtk.Gtk3theme.Breeze	5.27.8	3.22	system
